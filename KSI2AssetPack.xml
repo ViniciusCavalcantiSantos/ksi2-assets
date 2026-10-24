@@ -79,6 +79,18 @@
   <Sound Id="KSI2SasRcsHover" SimSpeed="Ignore" ChannelId="Ui">
     <SoundFile Path="assets/sounds/SasRcsHover.wav" TwoD="true" />
   </Sound>
+  <Sound Id="KSI2UiSourceSasRcs" SimSpeed="Ignore" ChannelId="Ui">
+    <SoundFile Path="assets/sounds/UiSourceSasRcs.wav" TwoD="true" />
+  </Sound>
+  <Sound Id="KSI2UiSourceExtendedClick" SimSpeed="Ignore" ChannelId="Ui">
+    <SoundFile Path="assets/sounds/UiSourceExtendedClick.wav" TwoD="true" />
+  </Sound>
+  <Sound Id="KSI2UiSourceTimePauseHover" SimSpeed="Ignore" ChannelId="Ui">
+    <SoundFile Path="assets/sounds/UiSourceTimePauseHover.wav" TwoD="true" />
+  </Sound>
+  <Sound Id="KSI2UiSourceTimeWarpClick" SimSpeed="Ignore" ChannelId="Ui">
+    <SoundFile Path="assets/sounds/UiSourceTimeWarpClick.wav" TwoD="true" />
+  </Sound>
   <Sound Id="KSI2SasRcsEnable" SimSpeed="Ignore" ChannelId="Ui">
     <SoundFile Path="assets/sounds/SasRcsEnable.wav" TwoD="true" />
   </Sound>
